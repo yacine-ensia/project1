@@ -1,1 +1,5 @@
-#my home page
+<?php
+
+phpcredits();
+
+?>
